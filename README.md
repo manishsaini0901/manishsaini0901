@@ -98,6 +98,16 @@ class WhoAmI {
     <a href="https://www.vicon.com" target="_blank"><img alt="Vicon" src="https://img.shields.io/badge/-Vicon-005BAC?style=flat-square&logo=vicon&logoColor=white"></a>
     <a href="https://www.intelrealsense.com" target="_blank"><img alt="Intel RealSense" src="https://img.shields.io/badge/-Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white"></a>
     <a href="https://www.zivid.com" target="_blank"><img alt="Zivid" src="https://img.shields.io/badge/-Zivid-0078D7?style=flat-square&logo=zivid&logoColor=white"></a>
+    <a href="https://www.docker.com" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
+    <a href="https://kubernetes.io" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>
+    <a href="https://www.ansible.com" target="_blank"><img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"></a>
+    <a href="https://www.terraform.io" target="_blank"><img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"></a>
+    <a href="https://www.jenkins.io" target="_blank"><img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"></a>
+    <a href="https://www.qt.io" target="_blank"><img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white"></a>
+    <a href="https://www.eclipse.org" target="_blank"><img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"></a>
+    <a href="https://www.jetbrains.com/clion/" target="_blank"><img alt="CLion" src="https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=jetbrains&logoColor=white"></a>
+    <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank"><img alt="LabVIEW" src="https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black"></a>
 </p>
 
 <h2 align="center">👨‍💻 Learning</h2>
