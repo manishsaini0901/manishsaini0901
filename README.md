@@ -56,7 +56,7 @@ class WhoAmI {
     constructor() {
         this.user = 'Manish Saini';
         this.currently = [
-         'Aspiring Software Engineer',
+         'Robotics Software Engineer',
          'Learning and Growing'
     ];
         this.hobbies = [
@@ -71,8 +71,8 @@ class WhoAmI {
     }
 
     aboutMe() {
-        return `I am passionate about software development and enjoy solving real-world problems through code.
-        My interests include SLAM (Simultaneous Localization and Mapping) and exploring cutting-edge technologies.
+        return `I am passionate about Robotics software development and enjoy solving real-world problems through code.
+        My interests include Perception, Navigation, and exploring cutting-edge technologies.
 
             I am always eager to collaborate on exciting projects and learn from others in the tech community.
         Feel free to reach out to me for discussions, collaborations, or just to say hi!`;
