@@ -2,6 +2,9 @@
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manishsaini0901&show_icons=true&theme=radical)](https://github.com/manishsaini0901/github-readme-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishsaini0901&show_icons=true&theme=tokyonight&hide=prs,contribs&bg_color=00000000)
+
+
 <!--
 **manishsaini0901/manishsaini0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
