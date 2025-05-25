@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manishsaini0901&show_icons=true&theme=radical)](https://github.com/manishsaini0901/github-readme-stats)
+
 <!--
 **manishsaini0901/manishsaini0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
