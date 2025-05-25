@@ -80,16 +80,24 @@ class WhoAmI {
 }
 ```
 
-<h2 align="center">🥞 Tech Stack</h2>
+<h2 align="center">🤖 Robotics Tech Stack</h2>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow"></a>
-  <a href="https://reactjs.org" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=blue"></a>
-  <a href="https://redux.js.org" target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
-  <a href="https://nodejs.org" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=darkgreen"></a>
-  <a href="https://www.mongodb.com" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=green"></a>
+    <a href="https://www.ros.org" target="_blank"><img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white"></a>
+    <a href="https://gazebosim.org" target="_blank"><img alt="Gazebo" src="https://img.shields.io/badge/-Gazebo-2C3E50?style=flat-square&logo=gazebo&logoColor=white"></a>
+    <a href="https://www.openrobotics.org" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"></a>
+    <a href="https://pytorch.org" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"></a>
+    <a href="https://www.nvidia.com/en-us/deep-learning-ai/robotics/" target="_blank"><img alt="NVIDIA Jetson" src="https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white"></a>
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"></a>
+    <a href="https://www.arduino.cc" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"></a>
+    <a href="https://www.raspberrypi.org" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white"></a>
+    <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank"><img alt="Fusion 360" src="https://img.shields.io/badge/-Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white"></a>
+    <a href="https://www.unity.com" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"></a>
+    <a href="https://www.blender.org" target="_blank"><img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white"></a>
+    <a href="https://www.vicon.com" target="_blank"><img alt="Vicon" src="https://img.shields.io/badge/-Vicon-005BAC?style=flat-square&logo=vicon&logoColor=white"></a>
+    <a href="https://www.intelrealsense.com" target="_blank"><img alt="Intel RealSense" src="https://img.shields.io/badge/-Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white"></a>
+    <a href="https://www.zivid.com" target="_blank"><img alt="Zivid" src="https://img.shields.io/badge/-Zivid-0078D7?style=flat-square&logo=zivid&logoColor=white"></a>
 </p>
 
 <h2 align="center">👨‍💻 Learning</h2>
